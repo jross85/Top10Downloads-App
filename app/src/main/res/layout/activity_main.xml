@@ -14,7 +14,7 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:background="@android:color/holo_red_light" />
+        android:background="#ff769d" />
 
     <ListView
         android:layout_width="wrap_content"
